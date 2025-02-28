@@ -1,4 +1,13 @@
 name: Invisible
-version: '1.0'
+version: 1.0
 main: me.sovjetelmo.invisible.Invisible
-api-version: '1.21'
+api-version: 1.21
+depend: [Vault]
+commands:
+  invisible:
+    description: Toggle invisibility
+    usage: /invisible <command>
+permissions:
+  invisible.use:
+    description: Allows the player to use invisibility
+    default: true
