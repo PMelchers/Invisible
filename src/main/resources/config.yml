@@ -1,6 +1,6 @@
 invisibility:
-  cost: 5.0        # Cost of using the invisibility spell (in currency)
-  duration: 6000     # Duration of invisibility in ticks (1 tick = 1/20 second)
+  cost: 5.0        # Cost of using the invisibility spell (in Ducaten)
+  duration: 6000     # Duration of invisibility in ticks 6000 Ticks is 1 minuut
   cooldown: 12000   # Cooldown duration in ticks after invisibility expires
 
 messages:
