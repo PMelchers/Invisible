@@ -1,7 +1,7 @@
 invisibility:
   cost: 5.0        # Cost of using the invisibility spell (in currency)
-  duration: 600     # Duration of invisibility in ticks (1 tick = 1/20 second)
-  cooldown: 600     # Cooldown duration in ticks after invisibility expires
+  duration: 6000     # Duration of invisibility in ticks (1 tick = 1/20 second)
+  cooldown: 12000   # Cooldown duration in ticks after invisibility expires
 
 messages:
   insufficient_funds: "You do not have enough money to use this ability!"
