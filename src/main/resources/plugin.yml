@@ -1,0 +1,4 @@
+name: Invisible
+version: '1.0'
+main: me.sovjetelmo.invisible.Invisible
+api-version: '1.21'
